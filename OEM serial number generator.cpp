@@ -70,7 +70,7 @@ void mod7(){
 		}
 		if (sum % 7 != 0){
 			done = false;
-		} else if (sum % 6 == 0){
+		} else if (sum % 7 == 0){
 			done = true;
 		}
 	} while (done == false);
