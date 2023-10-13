@@ -3,7 +3,7 @@
 	OEM keys consists of 4 segments. the general form is xxxxx-OEM-xxxxxxx-xxxxx
 	
 	first segment - date
-	the first segment represents the date the key was printed on. The first 3 digits are anything
+	the first segment represents the date when the key was printed on. The first 3 digits are anything
 	from 001 to 366 (day of the year) and the last 2 digits are the last digit of the year. You can
 	set this segment by inputting the date.
 	
