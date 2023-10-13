@@ -63,7 +63,7 @@ void mod7(){
 	
 	do{
 		sum = 0;
-		for (int i = 1; i<=7; i++){
+		for (int i = 1; i<7; i++){
 			mod7[0] = 0;
 			mod7[i] = rand () % 9;
 			sum +=mod7[i];
